@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/proto_rw.dir/example_message_rw.cpp.o CMakeFiles/proto_rw.dir/example_message.pb.cc.o  -o ../bin/proto_rw -Wl,-rpath,/usr/local/lib /usr/local/lib/libprotobuf.so -lpthread 
