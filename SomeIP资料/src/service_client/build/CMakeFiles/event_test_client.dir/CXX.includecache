@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ygd/vsomeip/examples/service_client/src/event_test_client.cpp
+iomanip
+-
+iostream
+-
+sstream
+-
+condition_variable
+-
+thread
+-
+vsomeip/vsomeip.hpp
+-
+

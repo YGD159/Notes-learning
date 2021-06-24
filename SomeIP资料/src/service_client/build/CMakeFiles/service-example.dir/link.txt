@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/service-example.dir/src/service-example.cpp.o  -o service-example  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lvsomeip3 -lpthread 

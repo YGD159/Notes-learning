@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/event_test_service.dir/src/event_test_service.cpp.o  -o event_test_service  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lvsomeip3 -lpthread 
