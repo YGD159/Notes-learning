@@ -1,0 +1,3 @@
+/home/ygd/vsomeip/examples/student_proto/student/CMakeFiles/rebuild_cache.dir
+/home/ygd/vsomeip/examples/student_proto/student/CMakeFiles/edit_cache.dir
+/home/ygd/vsomeip/examples/student_proto/student/CMakeFiles/student.dir

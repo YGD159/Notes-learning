@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/proto_r.dir/Reader.cpp.o CMakeFiles/proto_r.dir/Mymessage.pb.cc.o  -o ../bin/proto_r -Wl,-rpath,/usr/local/lib /usr/local/lib/libprotobuf.so -lpthread 
