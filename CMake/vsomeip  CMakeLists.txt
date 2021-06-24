@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(vSomeIPHelloWorld)
+find_package(Threads REQUIRED)
+
+include_directories("/usr/local/include/vsomeip")
+link_directories("/usr/local/lib")
+
+add_compile_options( -std=c++11 -O3 -Wall -c -fmessage-length=0 -fPIC -fPIE -pie -fstack-protector-all -Wtrampolines )
+
+add_executable (hello_world_service hello_world_service_main.cpp)
+target_link_libraries(hello_world_service  vsomeip3 pthread)
+
+add_executable (hello_world_client hello_world_client_main.cpp)
+target_link_libraries(hello_world_client  vsomeip3 pthread)
