@@ -1,4 +1,0 @@
-/home/ygd/vsomeip/examples/test_proto/test/CMakeFiles/rebuild_cache.dir
-/home/ygd/vsomeip/examples/test_proto/test/CMakeFiles/edit_cache.dir
-/home/ygd/vsomeip/examples/test_proto/test/CMakeFiles/proto_w.dir
-/home/ygd/vsomeip/examples/test_proto/test/CMakeFiles/proto_r.dir

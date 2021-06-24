@@ -1,4 +1,0 @@
-/home/ygd/vsomeip/examples/vsomip_protobuf/src/CMakeFiles/rebuild_cache.dir
-/home/ygd/vsomeip/examples/vsomip_protobuf/src/CMakeFiles/edit_cache.dir
-/home/ygd/vsomeip/examples/vsomip_protobuf/src/CMakeFiles/test2.dir
-/home/ygd/vsomeip/examples/vsomip_protobuf/src/CMakeFiles/test1.dir

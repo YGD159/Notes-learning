@@ -1,9 +1,0 @@
-syntax = "proto3";
-
- package Im;
- message Content
- {
-         int32  id = 1;
-         string str = 2;
-         int32  opt = 3;
- }

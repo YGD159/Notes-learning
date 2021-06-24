@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/student.dir/student.cpp.o CMakeFiles/student.dir/student.pb.cc.o  -o ../bin/student -Wl,-rpath,/usr/local/lib /usr/local/lib/libprotobuf.so -lpthread 
